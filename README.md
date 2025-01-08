@@ -1,4 +1,4 @@
-# LangChain Basics
+# LangChain Quickstart
 
 This workspace contains examples of using LangChain with Streamlit to build various AI-driven applications. Each script showcases a different aspect of LangChain, from basic prompt usage to more advanced retrieval and agent functionality.
 
